@@ -1000,6 +1000,14 @@ body {
 }
 
 .lower3 .line4 a{
-    color: rgb(78, 159, 235);
-    
+    color: rgb(78, 159, 235);   
+}
+
+.lower3 .line5{
+    color: rgb(114, 122, 129);
+    width: 80vw;
+    height: 50px;
+    margin: auto;
+    font-size: 13px;
+    font-weight: 600;
 }
